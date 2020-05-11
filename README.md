@@ -2,5 +2,4 @@
 
 <h6>feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol of patients, and the target is the drug that each patient responded to.</h6>
 
-![GitHub Logo](C:\Users\asd\Desktop\123.png)
-Format: ![Alt Text](url)
+(C:\Users\asd\Desktop\images\logo.png)
